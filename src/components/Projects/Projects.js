@@ -25,7 +25,7 @@ function Projects() {
               isBlog={false}
               title="Blog & Admin Dashboard"
               description="The Blog Website is a dynamic web application designed to allow users to create, read, update, and delete blog posts efficiently. This project demonstrates the integration of server-side scripting with PHP and a MySQL database for robust content management."
-              ghLink=""
+              ghLink="https://github.com/Karthikeyan-hue/blog-using-core-php.git"
               demoLink=""
             />
           </Col>
